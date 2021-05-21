@@ -1,6 +1,6 @@
 import pandas as pd
-import numpy as np
-from Net import Net
+import numpy as np 
+# from Net import Net
 
 # for reading and displaying images
 from skimage.io import imread

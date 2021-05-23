@@ -21,7 +21,7 @@
 ![image](https://user-images.githubusercontent.com/73290184/119261177-755d4200-bc00-11eb-9918-f67b011fdf5c.png)
 3. เปลี่ยน Path ของไฟล์ภาพเพื่อทำการนำข้อมูลรูปภาพเข้า Train <br>
 ![image](https://user-images.githubusercontent.com/73290184/119261278-e3a20480-bc00-11eb-889e-27522955612d.png)
-4.เปลี่ยน Path ทั้งในส่วนของ Create Grey Model และ Create Color Histograms Model 
+4. เปลี่ยน Path ทั้งในส่วนของ Create Grey Model และ Create Color Histograms Model <br>
 
 ##### ส่วน Test
 1. เปลี่ยน Path ของรูปภาพที่จะนำเข้ามา test ในส่วนนี้ <br>

@@ -1,7 +1,6 @@
-# Sugar cane leaves Recognition**
+# Sugar cane leaves Recognition
 
-# หัวข้อเรื่อง
-  การรู้จำภาพใบอ้อย
+<h3> หัวข้อเรื่อง : การรู้จำภาพใบอ้อย <h3>
 
 # สมาชิกในกลุ่ม
 

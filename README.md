@@ -15,7 +15,7 @@
 #### การเพิ่มรูป 
 1. เชื่อมต่อ google drive
 2. เปลี่ยน path ชุดข้อมูลที่ต้องการ ตรงนี้
-![Image](https://sv1.picz.in.th/images/2021/05/23/PESd0R.png)
+![Image](https://www.mx7.com/view2/CUge26BUVhI1tpbv)
 
 ## โปรเจคที่ 3  Learning-ฺBased Approach
  <h4> วิธีการรัน <h4>

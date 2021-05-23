@@ -33,8 +33,8 @@
 
 
  <h4> การเพิ่มรูป <h4>
-1. ทำการเชื่อมต่อ google drive
-
-2. เปลี่ยน path ชุดข้อมูลที่ต้องการ ตรงนี้ <br>
-![mount path](https://user-images.githubusercontent.com/73330190/119257882-82266980-bbf1-11eb-98e1-6453ecc7c675.png)
+  1. ทำการเชื่อมต่อ google drive <br>
+  ![mount drive](https://user-images.githubusercontent.com/73330190/119261570-2f08e280-bc02-11eb-98fb-536d5bd93ca3.png) <br>
+  2. เปลี่ยน path ชุดข้อมูลที่ต้องการ ตรงนี้ <br>
+  ![mount path](https://user-images.githubusercontent.com/73330190/119261575-37611d80-bc02-11eb-9578-52be4a617f8b.png)
 

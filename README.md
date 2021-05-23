@@ -16,8 +16,8 @@
 1. เชื่อมต่อ google drive <br>
 ![mount drive](https://user-images.githubusercontent.com/73330190/119257740-ca915780-bbf0-11eb-863b-a00e396579e1.png)
 
-2. เปลี่ยน path ชุดข้อมูลที่ต้องการ ตรงนี้
-![Image](https://ibb.co/rd9mCXz)
+2. เปลี่ยน path ชุดข้อมูลที่ต้องการ ตรงนี้ <br>
+![mount path](https://user-images.githubusercontent.com/73330190/119257882-82266980-bbf1-11eb-98e1-6453ecc7c675.png)
 
 ## โปรเจคที่ 3  Learning-ฺBased Approach
  <h4> วิธีการรัน <h4>

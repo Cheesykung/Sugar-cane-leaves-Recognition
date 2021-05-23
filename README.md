@@ -36,5 +36,5 @@
 ![mount drive](https://user-images.githubusercontent.com/73330190/119261570-2f08e280-bc02-11eb-98fb-536d5bd93ca3.png)
 2. เปลี่ยน path ชุดข้อมูลที่ต้องการ ตรงนี้ <br>
 ![mount path](https://user-images.githubusercontent.com/73330190/119261575-37611d80-bc02-11eb-9578-52be4a617f8b.png)
-3. เปลี่ยน Path ทั้งในส่วนของ "PREDICT CLASS OF IMAGE" ในส่วน input path from google drive <br>
+3. เปลี่ยน Path ในส่วนของ "PREDICT CLASS OF IMAGE" ในส่วน input path from google drive โดยใส่รูปภาพที่ต้องการ Test<br>
 ![image](https://user-images.githubusercontent.com/73330190/119269500-29bb9000-bc22-11eb-8061-96740bec274e.png)

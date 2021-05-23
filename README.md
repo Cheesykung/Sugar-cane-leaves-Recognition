@@ -13,10 +13,12 @@
 #### วิธีการรัน
 
 #### การเพิ่มรูป 
+##### ส่วน Train
 1. เชื่อมต่อ google drive <br>
 ![mount drive](https://user-images.githubusercontent.com/73330190/119257740-ca915780-bbf0-11eb-863b-a00e396579e1.png)
-2.เปลี่ยน Path ในส่วนของไฟล์ CSV <br>
-
+2. เปลี่ยน Path ในส่วนของไฟล์ CSV เพื่อทำการรันชื่อไฟล์ของรูปภาพใน folder <br>
+![image](https://user-images.githubusercontent.com/73290184/119261177-755d4200-bc00-11eb-9918-f67b011fdf5c.png)
+3. เปลี่ยน Path ของไฟล์ภาพเพื่อทำการนำข้อมูลรูปภาพเข้า Train <br>
 
 
 ## โปรเจคที่ 3  Learning-ฺBased Approach

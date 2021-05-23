@@ -10,6 +10,8 @@
 
 
  <h3>โปรเจคที่ 2 Handcraft-ฺBased Approach<h3>
+ 1. เชื่อม google drive
+ 2. นำเข้าชุดข้อมูล โดยเปลี่ยน path
  
  <h3>โปรเจคที่ 3  Learning-ฺBased Approach<h3>
   

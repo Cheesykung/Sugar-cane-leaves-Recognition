@@ -13,11 +13,8 @@
 #### วิธีการรัน
 
 #### การเพิ่มรูป 
-1. เชื่อมต่อ google drive
+1. เชื่อมต่อ google drive <br>
 ![mount drive](https://user-images.githubusercontent.com/73330190/119257740-ca915780-bbf0-11eb-863b-a00e396579e1.png)
-3. item
-1. เชื่อมต่อ google drive </n>
-
 
 2. เปลี่ยน path ชุดข้อมูลที่ต้องการ ตรงนี้
 ![Image](https://ibb.co/rd9mCXz)

@@ -24,6 +24,9 @@
 4.เปลี่ยน Path ทั้งในส่วนของ Create Grey Model และ Create Color Histograms Model 
 
 ##### ส่วน Test
+1. เปลี่ยน Path ของรูปภาพที่จะนำเข้ามา test ในส่วนนี้ <br>
+![image](https://user-images.githubusercontent.com/73290184/119261385-5ca15c00-bc01-11eb-8ddb-35cec93ea120.png)
+2. เปลี่ยน Path ทัั้งในส่วนของ Default Run (Grey) และ Default Run (Color)
 
 ## โปรเจคที่ 3  Learning-ฺBased Approach
  <h4> วิธีการรัน <h4>

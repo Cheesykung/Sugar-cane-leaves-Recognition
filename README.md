@@ -12,9 +12,11 @@
  <h2>โปรเจคที่ 2 Handcraft-ฺBased Approach<h3>
 <h4> วิธีการรัน </h4>
 
-<h4> การเพิ่มรูป <h4> 
+ <h4> การเพิ่มรูป <h4>
 1. เชื่อมต่อ google drive
 2. เปลี่ยน path ชุดข้อมูลที่ต้องการ ตรงนี้
+3. item 
+
  ![Image]()
  
  <h3>โปรเจคที่ 3  Learning-ฺBased Approach<h3>

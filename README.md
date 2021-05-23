@@ -14,6 +14,7 @@
 
 #### การเพิ่มรูป 
 1. เชื่อมต่อ google drive
+![Image](https://ibb.co/rd9mCXz.jpg)
 2. เปลี่ยน path ชุดข้อมูลที่ต้องการ ตรงนี้
 ![Image](https://ibb.co/rd9mCXz)
 

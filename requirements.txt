@@ -1,0 +1,10 @@
+python==3.7.10
+cv2==4.1.2
+numpy==1.19.5
+pandas==1.1.5
+matplotlib==
+matplotlib.pyplot==7.1.2
+
+tensorflow==2.4.0
+tqdm==4.36.1
+keras==1.2.2
